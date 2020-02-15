@@ -23,8 +23,6 @@ This project allows users to post their projects for other users to rate accordi
 * Python3.6
 * Django 1==1
 ## Support and contact details
-Any viable information on how to improve the app my email : blackrocket.47@gmail.com
+Any viable information on how to improve the app my email : blackrocket.47@gmail.com  
 
-### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
