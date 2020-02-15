@@ -1,8 +1,8 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# Raterapp
+#### App that you rate sites, 15/02/2020
+#### By **Greg Katono**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This project allows users to post their projects for other users to rate according to design, usability and content.In more simpler terms,this application allows a user to post a project he/she has created and get it reviewed by his/her peers.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
