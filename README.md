@@ -3,6 +3,13 @@
 #### By **Greg Katono**
 ## Description
 This project allows users to post their projects for other users to rate according to design, usability and content.In more simpler terms,this application allows a user to post a project he/she has created and get it reviewed by his/her peers.
+## User Stories
+* View posted projects and their details
+* Post a project to be rated/reviewed
+* Rate/ review other users' projects
+* Search for projects 
+* View projects overall score
+* View my profile page
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
