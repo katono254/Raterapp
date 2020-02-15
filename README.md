@@ -25,4 +25,4 @@ This project allows users to post their projects for other users to rate accordi
 ## Support and contact details
 Any viable information on how to improve the app my email : blackrocket.47@gmail.com  
 
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) {2020} **Greg Katono**
