@@ -19,7 +19,7 @@ This project allows users to post their projects for other users to rate accordi
 * Run the application        
 The steps provided above requires you to add commands in you computer terminal.
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+
 ## Technologies Used
 * Python3.6
 * Django 1==1
