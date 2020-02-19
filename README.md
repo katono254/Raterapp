@@ -11,12 +11,13 @@ This project allows users to post their projects for other users to rate accordi
 * View projects overall score
 * View my profile page
 ## This is how to get the app
-* To get the project...
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+* First you need to clone the repository(the steps are provided in the github help settings).
+* Pip freeze the dependencies using pip freeze command
+* Add a virtual environment 
+* Add a requirment.txt and list the all the dependencies
+* Set up a database and migrate it
+* Run the application        
+The steps provided above requires you to add commands in you computer terminal.
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
