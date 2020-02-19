@@ -10,8 +10,8 @@ This project allows users to post their projects for other users to rate accordi
 * Search for projects 
 * View projects overall score
 * View my profile page
-## Setup/Installation Requirements
-* This is a great place
+## This is how to get the app
+* To get the project...
 * to list setup instructions
 * in a simple
 * easy-to-understand
