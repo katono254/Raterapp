@@ -22,9 +22,11 @@ def index(request):
 
     try:
         posts = Post.objects.all()
-        posts = posts[::-1]
+        print(posts)
+        #posts = posts[::-1]
         a_post = random.randint(0, len(posts)-1)
         random_post = posts[a_post]
+        print("*******************************")
         print(random_post.photo)
     except Post.DoesNotExist:
         posts = None
