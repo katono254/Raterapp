@@ -23,7 +23,7 @@ def index(request):
         posts = Post.objects.all()
     except Post.DoesNotExist:
         posts:None
-    return render(request, 'index.html', {'posts': posts, 'form': form, 'random_post': random_post})
+    return render(request, 'index.html', {'posts': posts, 'form': form,})
 
 
 class ProfileViewSet(viewsets.ModelViewSet):
