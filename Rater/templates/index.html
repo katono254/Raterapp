@@ -13,7 +13,7 @@
         <!DOCTYPE html>
         <html class="no-js" lang="en">
         <body class="home" data-debug="0">
-
+    {% for random_post in random_post %}
         <section id="content">
             <div class="content-view">
                 <div class="box-site-head js-single-element"
@@ -101,6 +101,7 @@
                 </div>
             </div>
         </section>
+        {% endfor %}
         </body>
         </html>
     </div>
@@ -154,6 +155,7 @@
                                                        class="nav-img mr-2"
                                                        alt="">
                                 By {{post.user.username|title}} <span style="float:right">{{post.date|date}}</span>
+
                             </p>
                         </div>
                     </div>
