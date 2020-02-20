@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     #my app
     'Rater',
     # Third party apps
-    'crispy_forms',
+    
     'rest_framework',
     'pyuploadcare.dj',
 
