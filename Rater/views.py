@@ -21,7 +21,6 @@ def index(request):
         form = PostForm()
     try:
         posts = Post.objects.all()
-        random_post = posts[a_post]
         print(random_post.photo)
     except Post.DoesNotExist:
         posts:None
