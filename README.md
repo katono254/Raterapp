@@ -20,6 +20,7 @@ This project allows users to post their projects for other users to rate accordi
 The steps provided above requires you to add commands in you computer terminal.
 ## Known Bugs
 Problems when importing images from Awwwards in the homepage
+IMages are not showing in heroku site but  ser can post
 
  
 ## Technologies Used
