@@ -19,8 +19,8 @@ This project allows users to post their projects for other users to rate accordi
 * Run the application        
 The steps provided above requires you to add commands in you computer terminal.
 ## Known Bugs
-Crispy forms is not working the way it supposed to work so it causes the app to move below.
-Problems with the home page when consuming api uploadcare(the home page gives an empty white space)
+Problems when importing images from Awwwards in the homepage
+
  
 ## Technologies Used
 * Python3.6
