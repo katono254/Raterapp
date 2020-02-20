@@ -22,6 +22,7 @@ def index(request):
 
     try:
         posts = Post.objects.all()
+        posts =len[::-1]
         a_post = random.randint(0, len(posts)-1)
         random_post = posts[a_post]
         print(random_post.photo)
