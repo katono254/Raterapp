@@ -23,7 +23,6 @@ def index(request):
     try:
         posts = Post.objects.all()
         print(posts)
-        #posts = posts[::-1]
         a_post = random.randint(0, len(posts)-1)
         random_post = posts[a_post]
         print("*******************************")
