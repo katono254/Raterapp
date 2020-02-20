@@ -8,7 +8,7 @@ router.register('posts', views.PostViewSet)
 router.register('profile', views.ProfileViewSet)
 
 urlpatterns = [
-    path('', views.index, name='index'),
+    path('',views.index, name='index'),
     path('signup/', views.signup, name='signup'),
     path('account/', include('django.contrib.auth.urls')),
     path('api/', include(router.urls)),
