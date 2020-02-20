@@ -21,7 +21,6 @@ def index(request):
         form = PostForm()
     try:
         posts = Post.objects.all()
-        print(random_post.photo)
     except Post.DoesNotExist:
         posts:None
     return render(request, 'index.html', {'posts': posts, 'form': form, 'random_post': random_post})
